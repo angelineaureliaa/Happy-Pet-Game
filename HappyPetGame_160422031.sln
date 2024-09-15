@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyPetGame_160422031", "HappyPetGame_160422031\HappyPetGame_160422031.csproj", "{18DD92E3-2CEC-4E02-8B5D-00002B0EEBC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DD92E3-2CEC-4E02-8B5D-00002B0EEBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DD92E3-2CEC-4E02-8B5D-00002B0EEBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DD92E3-2CEC-4E02-8B5D-00002B0EEBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DD92E3-2CEC-4E02-8B5D-00002B0EEBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338C3D89-B3D0-40EA-B168-AA4267BDADE8}
+	EndGlobalSection
+EndGlobal
